@@ -17,7 +17,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [Front End Mentor Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-ULOaNsfEYG)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/huddle-landing-page-ULOaNsfEYG)
 - Live Site URL: [Live site at Netlify](https://huddle-landing-page-cf67f1.netlify.app/)
 
 ## My process
