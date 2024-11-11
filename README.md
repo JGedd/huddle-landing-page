@@ -29,7 +29,6 @@ This is a solution to the [Huddle landing page with single introductory section 
 - Flexbox
 - CSS Grid
 - BEM
-- SASS
 
 ### What I learned
 
